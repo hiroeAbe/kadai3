@@ -222,7 +222,7 @@ public class Anagrams extends JFrame {
         getContentPane().add(mainPanel, java.awt.BorderLayout.CENTER);
 
         fileMenu.setMnemonic('F');
-        fileMenu.setText("File");
+        fileMenu.setText("Azusa Hiroe China Team20");
 
         aboutMenuItem.setMnemonic('A');
         aboutMenuItem.setText("About");
